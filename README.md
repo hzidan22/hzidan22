@@ -73,13 +73,9 @@ I care about systems that <em>do the work end-to-end</em>, not just demos.
 
 | Project | What it is | Stack |
 |---|---|---|
-| **AutoTrader Agent** | Telegram-driven autonomous browser agent that contacts car sellers end-to-end | `Python` · browser automation |
 | **Forex Trading System** | Algorithmic forex trading system | `Python` |
-| **Digital Twin (POC)** | Industrial digital-twin proof-of-concept | `Python` |
 | **FitRate** | Fitness-app backend + ML background-removal service | `TypeScript` · `Python` |
 | **Quizly** | Interactive quiz application | `TypeScript` |
-| **HVAC Inspection App** | Mobile app for HVAC inspections/infractions | `Flutter` |
-| **IBM Data Science** | Data Science coursework & capstone | `Jupyter` · `Pandas` |
 
 ---
 
